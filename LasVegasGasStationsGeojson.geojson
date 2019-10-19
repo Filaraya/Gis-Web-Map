@@ -1,0 +1,2189 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1990476,36.1158426 ]
+    },
+    "properties": {
+    "name":"Chevron",
+    "Price/gallon":"$3.52",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1728093,36.0573072 ]
+    },
+    "properties": {
+    "name":"7-Eleven",
+    "Price/gallon":"$3.00",
+    "addr_street":"South Las Vegas Boulevard",
+    "website":"http://www.7eleven.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1717791,36.0564841 ]
+    },
+    "properties": {
+    "name":"Chevron",
+    "Price/gallon":"$3.75",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1717668,36.0481091 ]
+    },
+    "properties": {
+    "name":"Chevron",
+    "Price/gallon":"$3.45",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1626823,36.0572632 ]
+    },
+    "properties": {
+    "name":"Sinclair",
+    "Price/gallon":"$3.32",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.20769,36.1259426 ]
+    },
+    "properties": {
+    "name":"Chevron",
+    "Price/gallon":"$3.47",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2434929,36.100086 ]
+    },
+    "properties": {
+    "name":"7-Eleven",
+    "Price/gallon":"$3.34",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2978795,36.0996932 ]
+    },
+    "properties": {
+    "name":"Terrible's Herbst",
+    "Price/gallon":"$2.99",
+    "addr_street":"West Tropicana Avenue",
+    "website":"http://www.teriblehertz.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1173089,36.2401593 ]
+    },
+    "properties": {
+    "name":"7-Eleven",
+    "Price/gallon":"$3.42",
+    "addr_street":"East Craig Road",
+    "website":"http://www.711.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2429506,36.0617065 ]
+    },
+    "properties": {
+    "name":"Fil's Gas Station",
+    "Price/gallon":"$3.26",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2788468,36.0707481 ]
+    },
+    "properties": {
+    "name":"Chevron",
+    "Price/gallon":"$3.42",
+    "addr_street":"South Durango Drive",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2851004,36.291388 ]
+    },
+    "properties": {
+    "name":"Shell",
+    "Price/gallon":"$3.00",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2687336,36.2732345 ]
+    },
+    "properties": {
+    "name":"Sams Club Gas Station",
+    "Price/gallon":"$3.19",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2644313,36.2722311 ]
+    },
+    "properties": {
+    "name":"Terrible's Gas Station",
+    "Price/gallon":"$3.10",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0658791,36.1299785 ]
+    },
+    "properties": {
+    "name":"Circle K",
+    "Price/gallon":"$3.74",
+    "addr_street":"South Nellis Boulevard",
+    "website":"https://www.circlek.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0660534,36.1292242 ]
+    },
+    "properties": {
+    "name":"Rainbow Market",
+    "Price/gallon":"$3.05",
+    "addr_street":"East Desert Inn Road",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.309707,36.1834067 ]
+    },
+    "properties": {
+    "name":"7-Eleven",
+    "Price/gallon":"$3.53",
+    "addr_street":"North Town Center Drive",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0924356,36.1147658 ]
+    },
+    "properties": {
+    "name":"7-Eleven",
+    "Price/gallon":"$3.82",
+    "addr_street":"East Flamingo Road",
+    "website":"http://www.7eleven.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0653999,36.1143902 ]
+    },
+    "properties": {
+    "name":"Rebel",
+    "Price/gallon":"$3.86",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0651594,36.1373656 ]
+    },
+    "properties": {
+    "name":"Terrible",
+    "Price/gallon":"$3.42",
+    "addr_street":"South Nellis Boulevard",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0478797,36.1448974 ]
+    },
+    "properties": {
+    "name":"Shell",
+    "Price/gallon":"$3.61",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0466826,36.1450053 ]
+    },
+    "properties": {
+    "name":"Chevron",
+    "Price/gallon":"$3.60",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.047745,36.1598893 ]
+    },
+    "properties": {
+    "name":"Sunrise Food Mart",
+    "Price/gallon":"$3.33",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0479653,36.1589109 ]
+    },
+    "properties": {
+    "name":"Shell",
+    "Price/gallon":"$3.68",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0619548,36.1593189 ]
+    },
+    "properties": {
+    "name":"7-Eleven",
+    "Price/gallon":"$3.90",
+    "addr_street":"North Nellis Boulevard",
+    "website":"https://www.7-eleven.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.062878,36.1592456 ]
+    },
+    "properties": {
+    "name":"Texaco",
+    "Price/gallon":"$3.63",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0830742,36.1302141 ]
+    },
+    "properties": {
+    "name":"Sinclair",
+    "Price/gallon":"$3.53",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1050427,36.1294213 ]
+    },
+    "properties": {
+    "name":"76",
+    "Price/gallon":"$3.30",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1373687,36.1149431 ]
+    },
+    "properties": {
+    "name":"Chevron",
+    "Price/gallon":"$3.83",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1363793,36.1006264 ]
+    },
+    "properties": {
+    "name":"Texaco",
+    "Price/gallon":"$3.58",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0916104,36.1163998 ]
+    },
+    "properties": {
+    "name":"Smith's Fuel Center",
+    "Price/gallon":"$3.50",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2965917,36.2188515 ]
+    },
+    "properties": {
+    "name":"7-Eleven",
+    "Price/gallon":"$2.99",
+    "addr_street":"West Cheyenne Avenue",
+    "website":"http://www.7eleven.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0826177,36.14458 ]
+    },
+    "properties": {
+    "name":"Rebel",
+    "Price/gallon":"$3.15",
+    "addr_street":"East Sahara Avenue",
+    "website":"https://www.rebeloil.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0832849,36.1445661 ]
+    },
+    "properties": {
+    "name":"7-Eleven",
+    "Price/gallon":"$3.80",
+    "addr_street":"East Sahara Avenue",
+    "website":"http://www.7eleven.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0651666,36.136562 ]
+    },
+    "properties": {
+    "name":"Rebel",
+    "Price/gallon":"$3.17",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0646631,36.1220049 ]
+    },
+    "properties": {
+    "name":"Terrible",
+    "Price/gallon":"$3.14",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1015125,36.1004536 ]
+    },
+    "properties": {
+    "name":"Rebel",
+    "Price/gallon":"$3.63",
+    "addr_street":"East Tropicana Avenue",
+    "website":"https://www.rebeloil.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1286544,36.1013488 ]
+    },
+    "properties": {
+    "name":"7-Eleven",
+    "Price/gallon":"$3.80",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0998079,36.0419585 ]
+    },
+    "properties": {
+    "name":"Arco",
+    "Price/gallon":"$3.29",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1007316,36.1457619 ]
+    },
+    "properties": {
+    "name":"Circle K",
+    "Price/gallon":"$3.02",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2595789,36.1818523 ]
+    },
+    "properties": {
+    "name":"7-Eleven",
+    "Price/gallon":"$3.25",
+    "addr_street":"Buffalo Drive",
+    "website":"http://www.7eleven.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2604073,36.1816897 ]
+    },
+    "properties": {
+    "name":"Reble",
+    "Price/gallon":"$3.62",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1903636,36.1447754 ]
+    },
+    "properties": {
+    "name":"Terrible's Herbst",
+    "Price/gallon":"$3.41",
+    "addr_street":"West Sahara Avenue",
+    "website":"https://www.terribleherbst.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1771705,36.1438232 ]
+    },
+    "properties": {
+    "name":"7-Eleven",
+    "Price/gallon":"$3.39",
+    "addr_street":"West Sahara Avenue",
+    "website":"http://www.7eleven.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2086812,36.1440955 ]
+    },
+    "properties": {
+    "name":"Green valley grocery",
+    "Price/gallon":"$3.30",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2257989,36.1438719 ]
+    },
+    "properties": {
+    "name":"chevron",
+    "Price/gallon":"$3.47",
+    "addr_street":"West Sahara Avenue",
+    "website":"https://www.chevron.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2248695,36.1438362 ]
+    },
+    "properties": {
+    "name":"Chevon",
+    "Price/gallon":"$3.34",
+    "addr_street":"West Sahara Avenue",
+    "website":"https://www.chevron.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1724626,36.1585159 ]
+    },
+    "properties": {
+    "name":"Chevron",
+    "Price/gallon":"$3.49",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0660159,36.1447703 ]
+    },
+    "properties": {
+    "name":"Circle K",
+    "Price/gallon":"$3.88",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1102192,36.1294245 ]
+    },
+    "properties": {
+    "name":"Mobil",
+    "Price/gallon":"$3.88",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0836557,36.1306625 ]
+    },
+    "properties": {
+    "name":"7-Eleven",
+    "Price/gallon":"$3.66",
+    "addr_street":"Boulder Highway",
+    "website":"http://www.7eleven.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.080564,36.1592884 ]
+    },
+    "properties": {
+    "name":"7-Eleven",
+    "Price/gallon":"$3.43",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0797103,36.158517 ]
+    },
+    "properties": {
+    "name":"Rebel",
+    "Price/gallon":"$3.18",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0741841,36.1585645 ]
+    },
+    "properties": {
+    "name":"Shell",
+    "Price/gallon":"$3.83",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0747468,36.1587074 ]
+    },
+    "properties": {
+    "name":"7-Eleven",
+    "Price/gallon":"$3.62",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1644791,36.1147708 ]
+    },
+    "properties": {
+    "name":"Shell",
+    "Price/gallon":"$3.12",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1636084,36.1140731 ]
+    },
+    "properties": {
+    "name":"Arco",
+    "Price/gallon":"$3.47",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1458948,36.1215878 ]
+    },
+    "properties": {
+    "name":"7-Eleven",
+    "Price/gallon":"$3.55",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2070906,36.1012608 ]
+    },
+    "properties": {
+    "name":"7-Eleven",
+    "Price/gallon":"$3.37",
+    "addr_street":"West Tropicana Avenue",
+    "website":"http://www.7eleven.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0522139,36.1011098 ]
+    },
+    "properties": {
+    "name":"7-Eleven",
+    "Price/gallon":"$3.28",
+    "addr_street":"Boulder Highway",
+    "website":"http://www.7eleven.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0618428,36.188542 ]
+    },
+    "properties": {
+    "name":"Rainbow Market",
+    "Price/gallon":"$2.97",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0625882,36.1810503 ]
+    },
+    "properties": {
+    "name":"Rainbow Market",
+    "Price/gallon":"$3.65",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0625318,36.1744288 ]
+    },
+    "properties": {
+    "name":"7-Eleven",
+    "Price/gallon":"$3.20",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1568254,36.1452336 ]
+    },
+    "properties": {
+    "name":"Circle K",
+    "Price/gallon":"$3.63",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1519475,36.1515111 ]
+    },
+    "properties": {
+    "name":"Arco",
+    "Price/gallon":"$3.29",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.172115,36.0895134 ]
+    },
+    "properties": {
+    "name":"Shell",
+    "Price/gallon":"$3.01",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.206427,36.166292 ]
+    },
+    "properties": {
+    "name":"Texaco",
+    "Price/gallon":"$3.42",
+    "addr_street":"South Decatur Boulevard",
+    "website":"http://wwwtexaco.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0727752,36.099989 ]
+    },
+    "properties": {
+    "name":"7-Eleven",
+    "Price/gallon":"$3.30",
+    "addr_street":"",
+    "website":"http://www.7eleven.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0737077,36.0998217 ]
+    },
+    "properties": {
+    "name":"Rebel",
+    "Price/gallon":"$3.73",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0634374,36.1005183 ]
+    },
+    "properties": {
+    "name":"Circle K",
+    "Price/gallon":"$3.88",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.149172,36.1591725 ]
+    },
+    "properties": {
+    "name":"Arco",
+    "Price/gallon":"$3.82",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.053373,36.1007367 ]
+    },
+    "properties": {
+    "name":"Mobil",
+    "Price/gallon":"$3.03",
+    "addr_street":"Boulder Highway",
+    "website":"http://www.exxon.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1612109,36.1708162 ]
+    },
+    "properties": {
+    "name":"Costco Gasoline",
+    "Price/gallon":"$3.90",
+    "addr_street":"",
+    "website":"https://m.costco.com/WarehouseLocatorView?storeId=10301"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1707828,36.0418711 ]
+    },
+    "properties": {
+    "name":"Chevron",
+    "Price/gallon":"$3.20",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1192058,36.1445928 ]
+    },
+    "properties": {
+    "name":"Western Petroleum",
+    "Price/gallon":"$3.82",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0625332,36.1662004 ]
+    },
+    "properties": {
+    "name":"Shell",
+    "Price/gallon":"$3.04",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0616643,36.167255 ]
+    },
+    "properties": {
+    "name":"Smith's Gas Station",
+    "Price/gallon":"$3.36",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1134496,36.1002519 ]
+    },
+    "properties": {
+    "name":"Chevron",
+    "Price/gallon":"$3.50",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0795333,36.2540644 ]
+    },
+    "properties": {
+    "name":"Shell",
+    "Price/gallon":"$3.52",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2419645,36.2030791 ]
+    },
+    "properties": {
+    "name":"7-Eleven",
+    "Price/gallon":"$3.38",
+    "addr_street":"North Rainbow Boulevard",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2416032,36.1963458 ]
+    },
+    "properties": {
+    "name":"Terrible Herbst",
+    "Price/gallon":"$3.53",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2474312,36.1963604 ]
+    },
+    "properties": {
+    "name":"Rebel",
+    "Price/gallon":"$3.63",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1545827,36.1215967 ]
+    },
+    "properties": {
+    "name":"7-Eleven",
+    "Price/gallon":"$3.75",
+    "addr_street":"",
+    "website":"http://www.7eleven.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2519453,36.2185541 ]
+    },
+    "properties": {
+    "name":"Chevron",
+    "Price/gallon":"$2.98",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2510053,36.218558 ]
+    },
+    "properties": {
+    "name":"Rebel",
+    "Price/gallon":"$3.83",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1374982,36.14388 ]
+    },
+    "properties": {
+    "name":"Chevron",
+    "Price/gallon":"$3.94",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1183119,36.1591054 ]
+    },
+    "properties": {
+    "name":"Arco",
+    "Price/gallon":"$3.47",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.012703,36.0655728 ]
+    },
+    "properties": {
+    "name":"Chevron",
+    "Price/gallon":"$3.31",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.001306,36.057238 ]
+    },
+    "properties": {
+    "name":"Circle K",
+    "Price/gallon":"$3.06",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.002867,36.0586708 ]
+    },
+    "properties": {
+    "name":"City Express",
+    "Price/gallon":"$3.74",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0042175,36.0586162 ]
+    },
+    "properties": {
+    "name":"Mercurylight",
+    "Price/gallon":"$3.75",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0803279,36.1881931 ]
+    },
+    "properties": {
+    "name":"Arco",
+    "Price/gallon":"$3.76",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0802891,36.1888361 ]
+    },
+    "properties": {
+    "name":"76",
+    "Price/gallon":"$3.10",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.08,36.1812311 ]
+    },
+    "properties": {
+    "name":"Shell",
+    "Price/gallon":"$3.07",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.080988,36.1732031 ]
+    },
+    "properties": {
+    "name":"Arco",
+    "Price/gallon":"$3.41",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0809225,36.1737001 ]
+    },
+    "properties": {
+    "name":"Circle K",
+    "Price/gallon":"$2.97",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1835583,36.1003165 ]
+    },
+    "properties": {
+    "name":"Standard",
+    "Price/gallon":"$3.68",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1908257,36.0407239 ]
+    },
+    "properties": {
+    "name":"Fills",
+    "Price/gallon":"$3.94",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2919142,36.1586283 ]
+    },
+    "properties": {
+    "name":"Fabulous Freddy's",
+    "Price/gallon":"$3.44",
+    "addr_street":"West Charleston Boulevard",
+    "website":"http://www.fabfred.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2785974,36.0213202 ]
+    },
+    "properties": {
+    "name":"Chevron",
+    "Price/gallon":"$3.17",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2439213,36.0219245 ]
+    },
+    "properties": {
+    "name":"Chevron",
+    "Price/gallon":"$3.47",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2440177,36.0228511 ]
+    },
+    "properties": {
+    "name":"Arco",
+    "Price/gallon":"$3.00",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.191279,36.1440409 ]
+    },
+    "properties": {
+    "name":"Arco",
+    "Price/gallon":"$2.98",
+    "addr_street":"West Sahara Avenue",
+    "website":"https://www.arco.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0792742,36.2539005 ]
+    },
+    "properties": {
+    "name":"Pacific Pride Cardlock",
+    "Price/gallon":"$2.95",
+    "addr_street":"Lamb Boulevard",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1871041,36.1024963 ]
+    },
+    "properties": {
+    "name":"Sinclair (Truck Stop)",
+    "Price/gallon":"$2.99",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0259383,36.1959018 ]
+    },
+    "properties": {
+    "name":"Gas Station",
+    "Price/gallon":"$3.80",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1255902,36.196112 ]
+    },
+    "properties": {
+    "name":"Chevron",
+    "Price/gallon":"$3.55",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1278366,36.2174185 ]
+    },
+    "properties": {
+    "name":"7-Eleven",
+    "Price/gallon":"$3.85",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1788871,36.2172086 ]
+    },
+    "properties": {
+    "name":"Chevron",
+    "Price/gallon":"$3.75",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1800324,36.2179184 ]
+    },
+    "properties": {
+    "name":"7-Eleven",
+    "Price/gallon":"$3.05",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1618347,36.2181093 ]
+    },
+    "properties": {
+    "name":"Arco",
+    "Price/gallon":"$3.59",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1607779,36.2180075 ]
+    },
+    "properties": {
+    "name":"Chevron",
+    "Price/gallon":"$3.23",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2070997,36.2176353 ]
+    },
+    "properties": {
+    "name":"7-Eleven",
+    "Price/gallon":"$3.45",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2119947,36.2174773 ]
+    },
+    "properties": {
+    "name":"Rebel",
+    "Price/gallon":"$3.71",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2398816,36.2182974 ]
+    },
+    "properties": {
+    "name":"Chevron",
+    "Price/gallon":"$3.50",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2427327,36.2184289 ]
+    },
+    "properties": {
+    "name":"7-Eleven",
+    "Price/gallon":"$3.60",
+    "addr_street":"West Cheyenne Avenue",
+    "website":"http://www.7eleven.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2426817,36.2178056 ]
+    },
+    "properties": {
+    "name":"Rebel",
+    "Price/gallon":"$3.20",
+    "addr_street":"West Cheyenne Avenue",
+    "website":"https://www.rebeloil.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.3294108,36.2203372 ]
+    },
+    "properties": {
+    "name":"Terrible herbst",
+    "Price/gallon":"$3.17",
+    "addr_street":"Novat Street",
+    "website":"http://www.teribleherbst.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1794089,36.2619876 ]
+    },
+    "properties": {
+    "name":"Chevron",
+    "Price/gallon":"$3.69",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2062998,36.2695443 ]
+    },
+    "properties": {
+    "name":"Arco",
+    "Price/gallon":"$3.81",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1536046,36.2547167 ]
+    },
+    "properties": {
+    "name":"Shell",
+    "Price/gallon":"$3.45",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.161467,36.239858 ]
+    },
+    "properties": {
+    "name":"Texaco",
+    "Price/gallon":"$3.88",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1611752,36.2033285 ]
+    },
+    "properties": {
+    "name":"Chevron",
+    "Price/gallon":"$2.99",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1612998,36.1774053 ]
+    },
+    "properties": {
+    "name":"Chevron",
+    "Price/gallon":"$3.48",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2806688,36.1587397 ]
+    },
+    "properties": {
+    "name":"shell",
+    "Price/gallon":"$3.23",
+    "addr_street":"West Charleston Boulevard",
+    "website":"https://www.shell.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.313278,36.1584506 ]
+    },
+    "properties": {
+    "name":"Chevron",
+    "Price/gallon":"$3.50",
+    "addr_street":"West Charleston Boulevard",
+    "website":"http://www.teribelherst.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.3331983,36.1596022 ]
+    },
+    "properties": {
+    "name":"Chevron",
+    "Price/gallon":"$3.70",
+    "addr_street":"West Charleston Boulevard",
+    "website":"https://www.terribleherbst.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2516672,36.1956546 ]
+    },
+    "properties": {
+    "name":"Chevron",
+    "Price/gallon":"$3.50",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2814396,36.1996652 ]
+    },
+    "properties": {
+    "name":"Terribles Herbst",
+    "Price/gallon":"$3.66",
+    "addr_street":"",
+    "website":"http://www.terriblelherbst.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1526993,36.2525174 ]
+    },
+    "properties": {
+    "name":"76",
+    "Price/gallon":"$3.18",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2599339,36.2711853 ]
+    },
+    "properties": {
+    "name":"76",
+    "Price/gallon":"$3.28",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2980583,36.1440574 ]
+    },
+    "properties": {
+    "name":"speedee mart",
+    "Price/gallon":"$3.04",
+    "addr_street":"South Fort Apache Road",
+    "website":"https://speedeemart.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0624901,36.2254445 ]
+    },
+    "properties": {
+    "name":"7-Eleven",
+    "Price/gallon":"$3.75",
+    "addr_street":"North Nellis Boulevard",
+    "website":"http://www.7eleven.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0617962,36.2357685 ]
+    },
+    "properties": {
+    "name":"7-Eleven",
+    "Price/gallon":"$3.25",
+    "addr_street":"North Las Vegas Boulevard",
+    "website":"http://www.7eleven.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0556588,36.2402534 ]
+    },
+    "properties": {
+    "name":"7-Eleven",
+    "Price/gallon":"$3.94",
+    "addr_street":"North Las Vegas Boulevard",
+    "website":"http://www.7eleven.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1987533,36.1265529 ]
+    },
+    "properties": {
+    "name":"Arco",
+    "Price/gallon":"$3.33",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0475489,36.0347839 ]
+    },
+    "properties": {
+    "name":"Terrible's",
+    "Price/gallon":"$3.16",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.15465,36.123135 ]
+    },
+    "properties": {
+    "name":"76",
+    "Price/gallon":"$3.59",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1986905,36.1260846 ]
+    },
+    "properties": {
+    "name":"Shell",
+    "Price/gallon":"$3.55",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.09678,36.2399213 ]
+    },
+    "properties": {
+    "name":"Shell",
+    "Price/gallon":"$3.85",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.09992,36.0339818 ]
+    },
+    "properties": {
+    "name":"Shell",
+    "Price/gallon":"$3.52",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1885113,36.1012659 ]
+    },
+    "properties": {
+    "name":"Shell",
+    "Price/gallon":"$3.80",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2426258,36.0994458 ]
+    },
+    "properties": {
+    "name":"Terrible Herbst",
+    "Price/gallon":"$3.83",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2976523,36.1077986 ]
+    },
+    "properties": {
+    "name":"Terrible Herbst",
+    "Price/gallon":"$3.18",
+    "addr_street":"Peace Way",
+    "website":"https://www.terribleherbst.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2967794,36.1004062 ]
+    },
+    "properties": {
+    "name":"Terrible Herbst",
+    "Price/gallon":"$3.64",
+    "addr_street":"West Tropicana Avenue",
+    "website":"https://www.terribleherbst.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.3223113,36.1595514 ]
+    },
+    "properties": {
+    "name":"Terrible Herbst",
+    "Price/gallon":"$3.16",
+    "addr_street":"West Charleston Boulevard",
+    "website":"http://www.terribleherbst.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2978435,36.0922434 ]
+    },
+    "properties": {
+    "name":"Green Valley Grocery",
+    "Price/gallon":"$3.07",
+    "addr_street":"South Fort Apache Road",
+    "website":"http://www.greenvallygrocery.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.3062644,36.0847657 ]
+    },
+    "properties": {
+    "name":"7-Eleven",
+    "Price/gallon":"$3.79",
+    "addr_street":"West Russell Road",
+    "website":"http://www.7eleven.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.297291,36.0697058 ]
+    },
+    "properties": {
+    "name":"Maverik",
+    "Price/gallon":"$3.02",
+    "addr_street":"South Fort Apache Road",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2433082,36.159441 ]
+    },
+    "properties": {
+    "name":"rebel",
+    "Price/gallon":"$3.02",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2884209,36.1152324 ]
+    },
+    "properties": {
+    "name":"Peak Mart",
+    "Price/gallon":"$3.55",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.260594,36.1143044 ]
+    },
+    "properties": {
+    "name":"7-Eleven",
+    "Price/gallon":"$3.36",
+    "addr_street":"West Flamingo Road",
+    "website":"http://www.7eleven.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.238737,36.1149049 ]
+    },
+    "properties": {
+    "name":"Rebel",
+    "Price/gallon":"$3.55",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2615725,36.1440202 ]
+    },
+    "properties": {
+    "name":"Terrible�s Herbst",
+    "Price/gallon":"$3.00",
+    "addr_street":"West Sahara Avenue",
+    "website":"https://www.terribleherbst.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2975228,36.122736 ]
+    },
+    "properties": {
+    "name":"7-Eleven",
+    "Price/gallon":"$3.62",
+    "addr_street":"South Fort Apache Road",
+    "website":"http://www.7-eleven.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2600439,36.2186069 ]
+    },
+    "properties": {
+    "name":"Terrible Herbst",
+    "Price/gallon":"$3.95",
+    "addr_street":"West Cheyenne Avenue",
+    "website":"http://www.terribleherbst.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.3137328,36.1005523 ]
+    },
+    "properties": {
+    "name":"Smith's",
+    "Price/gallon":"$3.55",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.306108,36.0843089 ]
+    },
+    "properties": {
+    "name":"7-Eleven",
+    "Price/gallon":"$3.00",
+    "addr_street":"West Russel Road",
+    "website":"http://www.7eleven.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2974619,36.12264 ]
+    },
+    "properties": {
+    "name":"7-Eleven",
+    "Price/gallon":"$3.13",
+    "addr_street":"South Fort Apache Road",
+    "website":"http://www.7eleven.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2794081,36.1292209 ]
+    },
+    "properties": {
+    "name":"Stop n Shop",
+    "Price/gallon":"$3.07",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2627887,36.1585323 ]
+    },
+    "properties": {
+    "name":"Green Valley Grocery",
+    "Price/gallon":"$3.55",
+    "addr_street":"West Charleston Boulevard",
+    "website":"http://www.greenvallygrocery.com"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.2965992,36.1152368 ]
+    },
+    "properties": {
+    "name":"Rebel",
+    "Price/gallon":"$3.16",
+    "addr_street":"West Flamingo Road",
+    "website":"https://www.rebeloil.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1190712,36.0712321 ]
+    },
+    "properties": {
+    "name":"7-Eleven",
+    "Price/gallon":"$3.67",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1192486,36.0963504 ]
+    },
+    "properties": {
+    "name":"7-Eleven",
+    "Price/gallon":"$3.78",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.3149649,36.1450332 ]
+    },
+    "properties": {
+    "name":"Arco",
+    "Price/gallon":"$3.22",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1906729,36.14425 ]
+    },
+    "properties": {
+    "name":"Arco",
+    "Price/gallon":"$3.89",
+    "addr_street":"West Sahara Avenue",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0978321,36.2406577 ]
+    },
+    "properties": {
+    "name":"Pilot",
+    "Price/gallon":"$3.87",
+    "addr_street":"",
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1344395,36.2805311 ]
+    },
+    "properties": {
+    "name":"7-Eleven",
+    "Price/gallon":"$3.82",
+    "addr_street":"",
+    "website":""
+    }
+  }
+]
+}
